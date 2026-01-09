@@ -1,5 +1,9 @@
 # C++ Brick Breaker
 
+## Controls
+- **Left Arrow / Right Arrow** – Move paddle
+- **Space** – Start game / launch ball
+
 ## Overview
 A brick breaker / pong-style game built in C++ to practice core gameplay programming concepts:
 game loop updates, input, collision handling, and simple game state.
